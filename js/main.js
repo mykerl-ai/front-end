@@ -281,11 +281,11 @@ function changeImg() {
 		// 'url("images/build.jpg")',
 		// 'url("images/build1.jpg")',
 		// 'url("images/build2.jpg")',
-		'url("images/bg_1.jpg")',
 		'url("images/gate.jpg")',
 		 'url("images/lawma.jpg")',
 		 'url("images/lawma2.jpg")',
-		// 'url("images/lawma0.jpg")',
+		 'url("images/bg_1.jpg")',
+		// 'url("images/login.jpg")',
 		// 'url("images/lawma1.jpg")',
 		
 

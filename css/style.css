@@ -8347,7 +8347,7 @@ h1, h2, h3, h4, h5,
   
 
   #sto {
-    background: url('../images/bg_1.jpg');
+    background: url('../images/login.jpg');
     background-color: rgba( 255, 255, 255, 0.55 );
     position: relative;    
 box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
@@ -8363,7 +8363,7 @@ border-radius: 10px;
     left: 0;
     bottom: 0;
     right: 0;
-    background: linear-gradient( to bottom right, blue, red);
+    background: linear-gradient( to bottom right, green, orangered);
     background-size: cover;
     background-position:top left;
     z-index: -1; 
