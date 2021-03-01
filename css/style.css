@@ -8363,11 +8363,11 @@ border-radius: 10px;
     left: 0;
     bottom: 0;
     right: 0;
-    background: linear-gradient( to bottom right, green, orangered);
+    background: linear-gradient( to bottom right, #29323c, #485563);
     background-size: cover;
     background-position:top left;
     z-index: -1; 
-    opacity: 0.03;
+    opacity: 0.08;
   }
 
   #mid {
